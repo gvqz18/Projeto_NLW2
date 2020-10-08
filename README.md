@@ -9,7 +9,7 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, e
 
 <hr>
 
-## Previws
+## Previews
 
 <h1 align="center">
     <img alt="Proffy" title="Proffy" src="./github/layout.png" width="100%" heigth="100%"/>
