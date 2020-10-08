@@ -62,7 +62,7 @@ Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/jucelania/nlw-2
+$ git clone https://github.com/gvqz18/Projeto_NLW2
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd nlw-2
@@ -80,29 +80,12 @@ $ npm run dev
 
 ```
 
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## 🙌 Agradecimentos
-
-- [Time da RocketSeat](https://rocketseat.com.br/)
-- [Mayk Brito, e Instrutor da Rocketseat](https://github.com/maykbrito)
-- [Diego Fernandes, CTO e Instrutor da Rocketseat](https://github.com/diego3g)
-
 ---
 <h3 align="center">
 
- [Jully Developer](https://www.instagram.com/jullydeveloper/)
-
-    
+   
 </h3>
