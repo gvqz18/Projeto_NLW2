@@ -40,8 +40,6 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, e
 - [Node.js](https://nodejs.org/en/download/)
 - [Nunjucks](https://www.npmjs.com/package/nunjucks)
 - [SQLite](https://www.sqlite.org/download.html)
-- [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-- Express 
 ---
 
 ## 🚀 Como rodar o projeto
