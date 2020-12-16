@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jucelania/nlw-2.git"
+    "url": "git+https://github.com/gvqz18/Projeto_NLW2.git"
   },
   "bugs": {
-    "url": "https://github.com/jucelania/nlw-2/issues"
+    "url": "https://github.com/gvqz18/Projeto_NLW2/issues"
   },
-  "homepage": "https://github.com/jucelania/nlw-2#readme",
+  "homepage": "https://github.com/gvqz18/Projeto_NLW2#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
